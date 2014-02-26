@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\spawn unitées\AA1\AA1.cs">
+    <Files>
+      <File FileName="Assets\Script\UiAttack\UIAttack.cs" Line="250" Column="19" />
+      <File FileName="Assets\Script\MoveMinions\MoveJ1.cs" Line="71" Column="37" />
+      <File FileName="Assets\Script\spawn unitées\AA1\AA1.cs" Line="57" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

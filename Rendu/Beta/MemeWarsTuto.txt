@@ -1,0 +1,21 @@
+//////////////////////////////////////////Meme-Wars///////////////////////////////////////////////
+											TUTORIEL
+
+Une fois la partie lancée vous pouvez déplacer le joueur à la position cliquée avec le clic gauche.
+Vous pouvez également zoomer avec la molette.
+
+Selectionnez un batiment sur le GUI avec le clic Droit puis cliquer sur la position à laquelle vous voulez que le batiment soit construit.
+Les minions spawneront ensuite en continu et se dirigeront vers la base adverse pour la détruire.
+Construire des batiments permet de débloquer de nouveaux batiments et donc de nouveaux minions.
+
+Vous pouvez ensuite essayer le système de combat en construisant des batiments avec un deuxiéme joueur.
+
+Chaque joueur qui détruira un minion adverse recevra une certaine quantité de gold, nécessaire à la création de batiments.
+IMPORTANT : pour la beta, les golds sont infinis, afin de pouvoir le tester :).
+
+Clic gauche : déplace le joueur vers la position cliquée
+Clic droit : Sélectionne les batiments sur le GUI
+Molette : Zoom
+
+
+Lancement du serveur : lancer serveurMW.exe en premier(et lancer la partie), puis executer 2 ClientsMw.exe afin de pouvoir controler les 2 joueurs
